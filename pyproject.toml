@@ -9,7 +9,7 @@ packages = [{include = "document_qa"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-langchain = "^0.0.247"
+langchain = "^0.0.329"
 python-dotenv = "^1.0.0"
 pypdf = "^3.14.0"
 rich = "^13.5.1"
